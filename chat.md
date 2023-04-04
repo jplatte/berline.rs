@@ -28,8 +28,8 @@ If you don't have an account you can create one on our server.
 4. Complete the registration.
 5. Now join one of our channels.
 
-[hack-and-learn-channel]: https://matrix.to/#/!xycQxSjSAvEezkyztA:chat.berline.rs
-[rust-and-tell-channel]: https://matrix.to/#/!nScYCdqWQUsTkFRJMb:chat.berline.rs
+[hack-and-learn-channel]: https://matrix.to/#/#hack-and-learn:chat.berline.rs?via=mozilla.org?via=matrix.org?via=rustch.at
+[rust-and-tell-channel]: https://matrix.to/#/#rust-and-tell:chat.berline.rs?via=mozilla.org?via=matrix.org?via=rustch.at
 [Matrix]: https://matrix.org/
 [element]: https://rustch.at/
 [Matrix clients]: https://matrix.org/clients
